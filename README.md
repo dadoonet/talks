@@ -1,6 +1,6 @@
 Talks
 =====
 
-This repository contains scripts I used during elasticsearch talks.
-It's based on Shay's talks.
+This repository has moved to https://github.com/elasticsearchfr/jug-demo
 
+Please update your bookmarks...
